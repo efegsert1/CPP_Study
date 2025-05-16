@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CPP_Study-main\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E62B31F-1DB3-4E5C-AE23-B4D81531ED67}|Project1\\Project1.vcxproj|C:\\CPP_Study-main\\Project1\\Project1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E62B31F-1DB3-4E5C-AE23-B4D81531ED67}|Project1\\Project1.vcxproj|solutionrelative:Project1\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC18C\uC2A4.cpp",
+              "DocumentMoniker": "C:\\CPP_Study-main\\Project1\\Project1\\\uC18C\uC2A4.cpp",
+              "RelativeDocumentMoniker": "Project1\\\uC18C\uC2A4.cpp",
+              "ToolTip": "C:\\CPP_Study-main\\Project1\\Project1\\\uC18C\uC2A4.cpp",
+              "RelativeToolTip": "Project1\\\uC18C\uC2A4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-16T11:05:10.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
